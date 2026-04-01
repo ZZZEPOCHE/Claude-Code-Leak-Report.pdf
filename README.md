@@ -18,7 +18,7 @@ This repository contains a strategic analysis of the leak and its broader implic
 
 **Date:** 1 April 2026
 
-**PDF:** [Claude-Code-Leak-Report.pdf](Claude-Code-Leak-Report.pdf)
+**PDF:** [[Claude-Code-Leak-Report.pdf](Claude-Code-Leak-Report.pdf)](https://github.com/ZZZEPOCHE/Claude-Code-Leak-Report.pdf/blob/main/April_2026_Claude-Code-Leak-Report.pdf)
 
 ### Key Takeaways
 
